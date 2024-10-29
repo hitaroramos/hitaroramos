@@ -1,11 +1,25 @@
-## Hello, warrior!
+## Olá, Guerreiro!
 
-## Technology and tool
+Me chamo Hitaro, tenho 18 anos, estou aprendendo programação e estou embusca de agregar ao mundo conhecimento.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" />
+## Learning
+
+<img src="https://img.shields.io/badge/VS Code-0a6fa5" /> <img src="https://img.shields.io/badge/HTML-e44c26"/>
+<img src="https://img.shields.io/badge/Python-646464">
 
 
-## I am learning
+## Soft Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" />
-          
+> Adaptabilidade
+
+> Trabalho em equipe
+
+> Comunicativo
+
+> Interessado
+
+
+
+
+
+
