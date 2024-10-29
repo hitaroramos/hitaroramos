@@ -1,6 +1,6 @@
 ## Olá, Guerreiro!
 
-Me chamo Hitaro, tenho 18 anos, sitou-me aprendendo programação e estou embusca de agregar ao mundo conhecimento.
+> Me chamo Hitaro, tenho 18 anos, sitou-me aprendendo programação e estou embusca de agregar ao mundo conhecimento.
 
 ## Learning
 
