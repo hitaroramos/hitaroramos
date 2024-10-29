@@ -10,13 +10,13 @@ Me chamo Hitaro, tenho 18 anos, sitou-me aprendendo programação e estou embusc
 
 ## Soft Skills
 
-> Adaptabilidade
+* Adaptabilidade
 
-> Trabalho em equipe
+* Trabalho em equipe
 
-> Comunicativo
+* Comunicativo
 
-> Interessado
+* Interessado
 
 
 
