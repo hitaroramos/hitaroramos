@@ -5,7 +5,7 @@ Me chamo Hitaro, tenho 18 anos, sitou-me aprendendo programação e estou embusc
 ## Learning
 
 <img src="https://img.shields.io/badge/VS Code-0a6fa5" /> <img src="https://img.shields.io/badge/HTML-e44c26"/>
-<img src="https://img.shields.io/badge/Python-646464">
+<img src="https://img.shields.io/badge/Python-646464"> <img src="https://img.shields.io/badge/CSS3-8A2BE2"/>
 
 ## Soft Skills
 
