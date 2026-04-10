@@ -4,7 +4,8 @@ I am Hitaro, a enthusiast of technology and become seeking to contribute to the 
 
 ## Learning
 
-<img src="https://img.shields.io/badge/vscode-bright?color=blue" />
+<img src="https://img.shields.io/badge/vscode-bright?color=blue" /> <img src="https://img.shields.io/badge/git-orange" \>
+
 
 ## Soft Skills
 
