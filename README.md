@@ -1,21 +1,20 @@
-## Olá, Guerreiro!
+## Hi, Warrior!
 
-Me chamo Hitaro, tenho 18 anos, sitou-me aprendendo programação e estou embusca de agregar ao mundo conhecimento.
+I am Hitaro, a enthusiast of technology and become seeking to contribute to the world.
 
 ## Learning
 
-<img src="https://img.shields.io/badge/VS Code-0a6fa5" /> <img src="https://img.shields.io/badge/HTML-e44c26"/>
-<img src="https://img.shields.io/badge/Python-646464"> <img src="https://img.shields.io/badge/CSS-8A2BE2"/>
+<img src="https://img.shields.io/badge/vscode-bright?color=blue" />
 
 ## Soft Skills
 
-* Adaptabilidade
+* Adaptability
 
-* Trabalho em equipe
+* Teamwork
 
-* Comunicativo
+* Communicative
 
-* Interessado
+* Interested
 
 
 
